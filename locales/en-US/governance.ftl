@@ -8,6 +8,12 @@ governance-rfc-blurb = Each major decision in Rust starts as a Request for Comme
           Everyone is invited to discuss the proposal, to work toward a shared understanding of the tradeoffs.
           Though sometimes arduous, this community deliberation is Rust’s secret sauce for quality.
 
+governance-goals = Project goals and roadmap
+governance-goals-blurb = With <a href="https://rust-lang.github.io/rfcs/3672-Project-Goals-2024h2.html">RFC #3672</a>,
+        the project approved <a href="https://github.com/rust-lang/rust-project-goals/issues?q=is%3Aopen+is%3Aissue+label%3AC-tracking-issue">26 goals for the second half of 2024</a>.
+        Of these, 3 were designated as flagship goals.
+governance-goals-link = See the goals for 2024H2
+
 governance-teams-header = Teams
 governance-wgs-header = Working Groups
 

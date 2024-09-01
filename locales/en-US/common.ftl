@@ -30,6 +30,7 @@ index-title = Rust Programming Language
 nav-install = Install
 nav-learn = Learn
 nav-tools = Tools
+nav-goals = Project Goals
 nav-governance = Governance
 nav-community = Community
 nav-blog = Blog
